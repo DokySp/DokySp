@@ -65,7 +65,7 @@
 
 <br><br>
 
-### Making
+### Making:
 
 <img align="left" alt="3D Printing" width="26px" src="https://static.thenounproject.com/png/2113709-200.png" />
 
