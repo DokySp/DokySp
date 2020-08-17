@@ -7,7 +7,7 @@
 
 <br>
 
-**I'm FREE now!!😄😄**
+### I'm FREE now!!😄😄
 - 🔭 I’m currently working as a Freelancer & Lecturer
 - 🌱 I’m currently learning everything! (espacially iOS and Kotlin based Android)
 - 👯 I’m looking to collaborate with Media artist (It will be enjoyable :satisfied:).
@@ -28,11 +28,6 @@
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 <img align="left" alt="Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
-
-
-
-
-
 
 
 
@@ -94,9 +89,8 @@
 
 <br><br><br>
 
-<table>
-<tr><td valign="top" style="padding: 0 0 0 0;"><img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false"></td><td valign="top" style="padding: 0 0 0 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false"></td></tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="200">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false" height="200">
+
  
 
 <!-- ### Spotify Playing 🎧
@@ -110,12 +104,17 @@
 
 <details>
     <summary>:zap: Recent Repo</summary>
-    <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
-            </td>
-        </tr>
-    </table>
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
+    </a>
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default">
+    </a>
 </details>
 
+<a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
+</a>
+<a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default">
+</a>
