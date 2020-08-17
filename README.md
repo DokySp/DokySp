@@ -22,9 +22,8 @@
 <br> -->
 
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### Languages and Tools:
 
 <img align="left" alt="Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
 
@@ -71,7 +70,8 @@
 
 
 <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="162px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="162px">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="155px">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="155px">
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DokySp Spotify Playing" width="350" />](https://open.spotify.com/user/~~~) -->
