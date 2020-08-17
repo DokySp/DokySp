@@ -89,7 +89,7 @@
 
 <br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="200">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="180">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false" height="180">
 
  
 
@@ -106,15 +106,9 @@
     <summary>:zap: Recent Repo</summary>
     <a>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
-    </a>
-    <a>
+    </a><a>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default">
     </a>
 </details>
 
-<a>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
-</a>
-<a>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default">
-</a>
+<a><img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default"></a> <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default"></a>
