@@ -1,11 +1,6 @@
 ## Hi there, I'm Doky 👋✨
 
-
 <a href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> <a href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a href="https://doky.space/resume"><img src="https://img.shields.io/badge/resume-go-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/resume"></a>
-
-
-
-<br>
 
 ### I'm FREE now!!😄😄
 - 🔭 I’m currently working as a Freelancer & Lecturer
@@ -47,7 +42,7 @@
 
 <img align="left" alt="Google Cloud Platform" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
 
-<br><br>
+<br>
 
 ### Tools:
 
@@ -63,15 +58,15 @@
 
 <img align="left" alt="Github Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
 
-<br><br>
+<br>
 
 ### Making:
+
+<img align="left" alt="Sketch Up" width="26px" src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" />
 
 <img align="left" alt="3D Printing" width="26px" src="https://static.thenounproject.com/png/2113709-200.png" />
 
 <img align="left" alt="Laser Cutting" width="26px" src="https://static.thenounproject.com/png/1648382-200.png" />
-
-<img align="left" alt="Sketch Up" width="26px" src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" />
 
 
 
