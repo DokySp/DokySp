@@ -1,6 +1,6 @@
 ## Hi there, I'm Doky 👋✨
 
-<a href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> <a href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a href="https://doky.space/resume"><img src="https://img.shields.io/badge/resume-go-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/resume"></a>
+<a target="_blank" href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a target="_blank" href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> <a target="_blank" href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a target="_blank" href="https://doky.space/resume"><img src="https://img.shields.io/badge/resume-go-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/resume"></a>
 
 ### I'm FREE now!!😄😄
 - 🔭 I’m currently working as a Freelancer & Lecturer
