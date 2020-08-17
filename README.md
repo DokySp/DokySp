@@ -88,10 +88,7 @@
 
 
 <br><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="180">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false" height="180">
-
- 
+<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="162px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="162px">
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DokySp Spotify Playing" width="350" />](https://open.spotify.com/user/~~~) -->
@@ -99,16 +96,11 @@
 
 <br>
 
----
-
-
-<details>
+<!-- <details>
     <summary>:zap: Recent Repo</summary>
     <a>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
     </a><a>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default">
     </a>
-</details>
-
-<a><img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default"></a> <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=ar.js&theme=default"></a>
+</details> -->
