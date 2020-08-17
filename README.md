@@ -1,18 +1,121 @@
-### Hi there 👋
+### Hi there, I'm Doky 👋✨
 
-I'm FREE now!!😄😄
 
-<!--
-**DokySp/DokySp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/doky.space-go-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> <a href="https://doky.space/"><img src="https://img.shields.io/badge/blog-go-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a href="https://doky.space/resume"><img src="https://img.shields.io/badge/resume-go-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/resume"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+**I'm FREE now!!😄😄**
+- 🔭 I’m currently working as a Freelancer & Lecturer
+- 🌱 I’m currently learning everything! (espacially iOS and Kotlin based Android)
+- 👯 I’m looking to collaborate with Media artist (It will be enjoyable :satisfied:).
+<!-- - :zap: Fun fact:  -->
+
+<br>
+
+<!-- ### Connect with me:
+<a href="https://doky.space"><img align="left" alt="doky.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
+<a href=""><img align="left" alt="Doky.Sp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://www.instagram.com/doky.sp/"><img align="left" alt="Doky.Sp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<br> -->
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+
+<img align="left" alt="Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+
+
+
+
+<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
+
+
+
+
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Github Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
+
+
+
+<img align="left" alt="3D Printing" width="26px" src="https://3qcbdntxdyb43ubh6h0b0qgz-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/FDM-1-720x400.png" />
+
+<img align="left" alt="Laser Cutting" width="26px" src="https://thumbs.dreamstime.com/z/laser-cutting-flat-line-icon-metal-works-tool-sign-thin-linear-logo-stainless-steel-fabrication-figured-carving-services-116160335.jpg" />
+
+<img align="left" alt="Sketch Up" width="26px" src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png" />
+
+
+
+<br><br><br>
+
+<table>
+<tr><td valign="top" style="padding: 0 0 0 0;"><img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false"></td><td valign="top" style="padding: 0 0 0 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false"></td></tr>
+</table>
+ 
+
+<!-- ### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DokySp Spotify Playing" width="350" />](https://open.spotify.com/user/~~~) -->
+
+
+<br>
+
+---
+
+
+<details>
+    <summary>:zap: Recent Repo</summary>
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
+            </td>
+        </tr>
+    </table>
+</details>
+
