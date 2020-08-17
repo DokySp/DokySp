@@ -43,7 +43,7 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<br><br>
+<br>
 
 <img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
@@ -63,7 +63,7 @@
 
 <img align="left" alt="Github Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
 
-<br><br>
+<br>
 
 <img align="left" alt="3D Printing" width="26px" src="https://static.thenounproject.com/png/2113709-200.png" />
 
