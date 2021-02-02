@@ -6,6 +6,7 @@
 - 🔭 I’m currently working at [Hycore Co., LTD.](https://hycore.com/) and I'm now in R&D team.
 - 💼 My main job is Software Development with Flutter. Checkout the app what I made! **(Hycore CONNECT [Android, ](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&gl=US)[iOS)](https://apps.apple.com/vc/app/hycore-connect/id1536848800)**
 - 🌱 I’m currently learning Flutter and node.js!
+- 📚 Also I made Github Organization for study. [@DokySp-Study](https://github.com/DokySp-study)
 <!-- - :zap: Fun fact:  -->
 
 <br>
