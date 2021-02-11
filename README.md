@@ -9,6 +9,11 @@
 - 📚 Also I made Github Organization for study. [@DokySp-Study](https://github.com/DokySp-study)
 <!-- - :zap: Fun fact:  -->
 
+### Press
+ - [BLOTER-[메이커] 창의력 증진을 쉽게 돕는 3D프린팅 솔루션](http://www.bloter.net/archives/287724)
+ - [PRESS9-'아이디어를 현실로'...정글온 창업연구소 프로젝트 성황리 막 내려](http://www.press9.kr/news/articleView.html?idxno=28012)
+ - [FACEBOOK-Lapis3D](https://www.facebook.com/Lapis3D/)
+
 <br>
 
 <!-- ### Connect with me:
@@ -152,11 +157,6 @@
 </a>
 
 <br>
-
-## Press
- - [BLOTER-[메이커] 창의력 증진을 쉽게 돕는 3D프린팅 솔루션](http://www.bloter.net/archives/287724)
- - [PRESS9-'아이디어를 현실로'...정글온 창업연구소 프로젝트 성황리 막 내려](http://www.press9.kr/news/articleView.html?idxno=28012)
- - [FACEBOOK-Lapis3D](https://www.facebook.com/Lapis3D/)
 
 <br><br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="157px">
