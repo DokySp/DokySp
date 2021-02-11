@@ -91,7 +91,7 @@
 
 <img align="left" alt="nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" />
 
-<img align="left" alt="Google Cloud Platform" width="26px" src="https://github.com/topics/google-cloud" />
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://raw.githubusercontent.com/github/explore/62b74b4ac11782e90fa7c275d62ad1a2855d403d/topics/google-cloud/google-cloud.png" />
 
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
