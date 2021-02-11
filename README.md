@@ -3,9 +3,10 @@
 <a target="_blank" href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a target="_blank" href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> <a target="_blank" href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a target="_blank" href="https://doky.space/resume"><img src="https://img.shields.io/badge/resume-go-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/resume"></a>
 
 ### I'm WORKING now!!
-- 🔭 I’m currently working at [Hycore Co., LTD.](https://hycore.com/) and I'm now in Sales Marketing team.
-- 💼 My main job is Software Development with Flutter. (with some market research & promotion)
-- 🌱 I’m currently learning Flutter!
+- 🔭 I’m currently working at [Hycore Co., LTD.](https://hycore.com/) and I'm now in R&D team.
+- 💼 My main job is Software Development with Flutter. Checkout the app what I made! **(Hycore CONNECT [Android, ](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&gl=US)[iOS)](https://apps.apple.com/vc/app/hycore-connect/id1536848800)**
+- 🌱 I’m currently learning Flutter and node.js!
+- 📚 Also I made Github Organization for study. [@DokySp-Study](https://github.com/DokySp-study)
 <!-- - :zap: Fun fact:  -->
 
 <br>
