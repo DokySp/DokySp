@@ -3,10 +3,12 @@
 <a target="_blank" href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a target="_blank" href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> <a target="_blank" href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a target="_blank" href="https://doky.space/resume"><img src="https://img.shields.io/badge/resume-go-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/resume"></a>
 
 ### Info.
+- 🧑‍💻 I'm software freelencer called KAVE. See more information about KAVE in [this link!](https://doky.space)
 - 🔭 I worked at [Hycore Co., LTD.](https://hycore.com/) and I was in R&D team.
 - 💼 My main job is Software Development with Flutter. Checkout the app what I made! **(Hycore CONNECT [Android, ](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&gl=US)[iOS)](https://apps.apple.com/vc/app/hycore-connect/id1536848800)**
-- 🌱 I’m currently learning Flutter and node.js!
+- 🌱 I’m currently learning Flutter, Node.js and Data Analysis what using scikit-learn!
 - 📚 Also I made Github Organization for study. [@DokySp-Study](https://github.com/DokySp-study)
+- 📖 I'm studying to solve alogrithm test through BOJ and made algorithm study note with Github page. [https://uhug.github.io](https://uhug.github.io)
 <!-- - :zap: Fun fact:  -->
 
 ### Press
@@ -22,7 +24,7 @@
 <a href="https://www.instagram.com/doky.sp/"><img align="left" alt="Doky.Sp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br> -->
 
-### Skills: 
+### Languages: 
 
 <a href="https://github.com/topics/dart">
 <img align="left" alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
@@ -42,6 +44,13 @@
 
 <a href="https://github.com/topics/css">
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+
+<br>
+
+### Machine Learning : 
+<a href="https://github.com/topics/scikit-learn">
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 </a>
 
 <br>
