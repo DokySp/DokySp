@@ -6,9 +6,9 @@
 - 🧑‍💻 I'm software freelencer called KAVE. See more information about KAVE in [this link!](https://doky.space)
 - 🔭 I worked at [Hycore Co., LTD.](https://hycore.com/) and I was in R&D team.
 - 💼 My main job is Software Development with Flutter. Checkout the app what I made! **(Hycore CONNECT [Android, ](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&gl=US)[iOS)](https://apps.apple.com/vc/app/hycore-connect/id1536848800)**
-- 🌱 I’m currently learning Flutter, Node.js and Data Analysis what using scikit-learn!
+- 🌱 I’m currently learning Flutter, Node.js and Data Analysis what using scikit-learn and PyTorch!
 - 📚 Also I made Github Organization for study. [@DokySp-Study](https://github.com/DokySp-study)
-- 📖 I'm studying to solve alogrithm test through BOJ and made algorithm study note with Github page. [https://uhug.github.io](https://uhug.github.io)
+- 📖 I'm studying to solve alogrithm test through BOJ and made algorithm study note through Github page. [https://uhug.github.io](https://uhug.github.io)
 <!-- - :zap: Fun fact:  -->
 
 ### Press
