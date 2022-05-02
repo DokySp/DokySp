@@ -167,22 +167,20 @@
 
 <br>
 
-<br><br><br><br>
+<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="150px">
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DokySp Spotify Playing" width="350" />](https://open.spotify.com/user/~~~) -->
 
-<br>
+<br><br><br><br><br><br>
 
 ### :zap: Starred Repo
 
-<br>
-
-<a>
+<a href="https://github.com/DokySp/acmicpc-practice">
     <img align="left" width=382 src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
-</a><a>
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp-study&repo=git-flow-test&theme=default">
+</a><a href="https://github.com/uhug/uhug.github.io">
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=uhug&repo=uhug.github.io&theme=default">
 </a>
 
