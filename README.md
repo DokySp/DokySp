@@ -28,6 +28,10 @@
 
 ### Languages: 
 
+<a href="https://github.com/topics/kotlin">
+<img align="left" alt="kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+</a>
+
 <a href="https://github.com/topics/dart">
 <img align="left" alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 </a>
