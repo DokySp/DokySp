@@ -7,7 +7,7 @@
 
 - 🧑‍💻 Android & Flutter Developer. See more information about KAVE in [this link!](https://doky.space)
 - 🌱 Curious about Kotlin, Flutter, Node.js and Data Analysis what using scikit-learn and PyTorch
-- 💼 Samsung Electronics Student Intern(MX), Hycore App Developer, KAVE(Software freelance)
+- 💼 Samsung Electronics Student Intern, Hycore App Developer, KAVE(Software freelance)
 
 <br>
 
