@@ -4,29 +4,13 @@
 
 <!-- <a target="_blank" href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> -->
 
-### Info.
-- 🧑‍💻 I'm software freelencer called KAVE. See more information about KAVE in [this link!](https://doky.space)
-- 🔭 I worked at [Hycore Co., LTD.](https://hycore.com/) and I was in R&D team.
-- 💼 My main job is Software Development with Flutter. Checkout the app what I made! **(Hycore CONNECT [Android, ](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&gl=US)[iOS)](https://apps.apple.com/vc/app/hycore-connect/id1536848800)**
-- 🌱 I’m currently learning Flutter, Node.js and Data Analysis what using scikit-learn and PyTorch!
-- 📚 Also I made Github Organization for study. [@DokySp-Study](https://github.com/DokySp-study)
-- 📖 I'm studying to solve alogrithm test through BOJ and made algorithm study note through Github page. [https://uhug.github.io](https://uhug.github.io)
-<!-- - :zap: Fun fact:  -->
 
-### Press
- - [BLOTER-[메이커] 창의력 증진을 쉽게 돕는 3D프린팅 솔루션](http://www.bloter.net/archives/287724)
- - [PRESS9-'아이디어를 현실로'...정글온 창업연구소 프로젝트 성황리 막 내려](http://www.press9.kr/news/articleView.html?idxno=28012)
- - [FACEBOOK-Lapis3D](https://www.facebook.com/Lapis3D/)
+- 🧑‍💻 Android & Flutter Developer. See more information about KAVE in [this link!](https://doky.space)
+- 🌱 Curious about Kotlin, Flutter, Node.js and Data Analysis what using scikit-learn and PyTorch
 
 <br>
 
-<!-- ### Connect with me:
-<a href="https://doky.space"><img align="left" alt="doky.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
-<a href=""><img align="left" alt="Doky.Sp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://www.instagram.com/doky.sp/"><img align="left" alt="Doky.Sp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<br> -->
-
-### Languages: 
+### Here is the thing
 
 <a href="https://github.com/topics/kotlin">
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
@@ -56,10 +40,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
 
-<br>
-
-### Machine Learning : 
-
 <a href="https://github.com/topics/pytorch">
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png" />
 </a>
@@ -67,10 +47,6 @@
 <a href="https://github.com/topics/scikit-learn">
 <img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 </a>
-
-<br>
-
-### App Dev.:
 
 <a href="https://github.com/topics/android">
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -83,10 +59,6 @@
 <a href="https://github.com/topics/flutter">
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 </a>
-
-<br>
-
-### Web Dev.:
 
 <a href="https://github.com/topics/node-js">
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -116,10 +88,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a>
 
-<br>
-
-### Making:
-
 <a href="https://github.com/topics/arduino">
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 </a>
@@ -135,10 +103,6 @@
 <a href="https://www.google.com/search?q=laser+cutting&source=lmns&bih=994&biw=1660&client=safari&hl=ko&sa=X&ved=2ahUKEwjiifW9vuHuAhXAxosBHeBfB1kQ_AUoAHoECAEQAA">
 <img align="left" alt="Laser Cutting" width="26px" src="https://static.thenounproject.com/png/1648382-200.png" />
 </a>
-
-<br>
-
-### Tools:
 
 <a href="https://github.com/topics/visual-studio-code">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -184,18 +148,19 @@
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 </a>
 
-<br>
+<br><br>
+
+### solved.ac
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=uhug123">
 
 <br><br>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="150px">
 
-<!-- ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DokySp Spotify Playing" width="350" />](https://open.spotify.com/user/~~~) -->
+<br><br>
 
-<br><br><br><br><br><br>
-
-### :zap: Starred Repo
+### Might be interested
 
 <a href="https://github.com/DokySp/acmicpc-practice">
     <img align="left" width=382 src="https://github-readme-stats.vercel.app/api/pin/?username=DokySp&repo=acmicpc-practice&theme=default">
@@ -203,3 +168,4 @@
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=uhug&repo=uhug.github.io&theme=default">
 </a>
 
+<br>
