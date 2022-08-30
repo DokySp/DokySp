@@ -148,17 +148,13 @@
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 </a>
 
-<br><br>
+<br><br><br><br>
 
-### solved.ac
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=uhug123">
-
-<br><br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="150px">
-
-<br><br>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=dokysp&count_private=true&show_icons=true&theme=vuefy&hide_border=false&card_width=382" height="150px">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DokySp&layout=compact&hide_border=false&card_width=382" height="150px">
+</p>
 
 ### Might be interested
 
@@ -169,3 +165,7 @@
 </a>
 
 <br>
+
+<!-- <a href="https://solved.ac/profile/uhug123">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=uhug123">
+</a> -->
