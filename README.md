@@ -6,7 +6,7 @@
 
 
 - 🧑‍💻 Android & Flutter Developer
-- 🌱 Curious about Kotlin, Flutter, Node.js and Data Analysis what using scikit-learn and PyTorch
+- 🌱 Curious about Android Kotlin, Flutter, Node.js and Machine Learning with PyTorch(CNN, RNN based model) and Scikit Learn
 - 💼 Samsung Electronics Student Intern, [Hycore App Developer](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&hl=ko&gl=US), [KAVE(Software freelance)](https://doky.space/kave)
 
 <br>
