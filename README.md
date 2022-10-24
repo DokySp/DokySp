@@ -7,7 +7,10 @@
 
 - 🧑‍💻 Android & Flutter Developer
 - 🌱 Curious about Android Kotlin, Flutter, Node.js and Machine Learning with PyTorch(CNN, RNN based model) and Scikit Learn
-- 💼 [Samsung Electronics Student Intern](https://www.linkedin.com/in/dokyoon2190/overlay/1635499818600/single-media-viewer/), [KAVE(Software freelance)](https://doky.space/kave), [Hycore App Developer](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&hl=ko&gl=US)
+- 💼 Careers
+   - [Samsung Electronics Student Intern](https://www.linkedin.com/in/dokyoon2190/overlay/1635499818600/single-media-viewer/)
+   - [KAVE(Software freelance)](https://doky.space/kave)
+   - [Hycore App Developer](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&hl=ko&gl=US)
 
 <br>
 
