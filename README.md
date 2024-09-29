@@ -1,6 +1,6 @@
 ## Welcome to My Space 🪐
 
-<a target="_blank" href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a target="_blank" href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a target="_blank" href="https://doky.space/cv/ko"><img src="https://img.shields.io/badge/cv-read-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/cv/ko"></a> <a target="_blank" href="https://www.linkedin.com/in/dokyoon2190/"><img src="https://img.shields.io/badge/linkedin-dokyoon2190-0077B5?style=for-the-badge&logo=linkedin" alt="https://www.linkedin.com/in/dokyoon2190/"></a>
+<a target="_blank" href="https://www.instagram.com/doky.sp/"><img src="https://img.shields.io/badge/Instargam-%40Doky.Sp-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram@Doky.Sp"></a> <a target="_blank" href="https://doky.space/"><img src="https://img.shields.io/badge/blog-doky.space-%234B32C3?style=for-the-badge&logo=safari" alt="https://doky.space/"></a> <a target="_blank" href="https://doky.space/cv/ko"><img src="https://img.shields.io/badge/cv-read-%238CA1AF?style=for-the-badge&logo=Read-the-Docs" alt="https://doky.space/cv/ko"></a> <a target="_blank" href="https://www.linkedin.com/in/dokyoon2190/"><img src="https://img.shields.io/badge/linkedin-dokyoon2190-0077B5?style=for-the-badge&logo=linkedin" alt="https://www.linkedin.com/in/dokysp/"></a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdokysp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
@@ -11,7 +11,7 @@
 - 🌱 Curious about Android Kotlin, Node.js and Machine Learning with PyTorch(CNN, RNN based model) and Scikit Learn
 - 💼 Careers
    - [Samsung Electronics MX Business Software Engineer](https://samsung.com) **(Current)**
-   - [Samsung Electronics Student Intern](https://www.linkedin.com/in/dokyoon2190/overlay/1635499818600/single-media-viewer/)
+   - [Samsung Electronics Student Intern](https://www.linkedin.com/in/dokysp/overlay/1635499818600/single-media-viewer/)
    - [KAVE(Software freelance)](https://doky.space/kave)
    - [Hycore](https://hycore.com/) [App Developer](https://play.google.com/store/apps/details?id=com.hycore.hcconnect&hl=ko&gl=US)
 
