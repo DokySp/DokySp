@@ -7,8 +7,8 @@
 <!-- <a target="_blank" href="https://www.facebook.com/doky.sp"><img src="https://img.shields.io/badge/facebook-@Doky.Sp-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook@Doky.Sp"></a> -->
 
 
-- 🧑‍💻 App & FE Developer
-- 🌱 Curious about Android Kotlin, Flutter, Node.js and Machine Learning with PyTorch(CNN, RNN based model) and Scikit Learn
+- 🧑‍💻 Android Developer
+- 🌱 Curious about Android Kotlin, Node.js and Machine Learning with PyTorch(CNN, RNN based model) and Scikit Learn
 - 💼 Careers
    - [Samsung Electronics MX Business Software Engineer](#)
    - [Samsung Electronics Student Intern](https://www.linkedin.com/in/dokyoon2190/overlay/1635499818600/single-media-viewer/)
